@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 1rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.purple{
+    background-color: purple;
+}
+.green{
+    background-color: green;
+}
+
+.gamef{
+    background-color: white;
+}
+.userf{
+    background-color: rgb(0, 0, 0);
+}
+.input-box {
+    margin-top: 20px;
+}
+.welcome {
+    display: none;
+    margin-top: 20px;
+}
